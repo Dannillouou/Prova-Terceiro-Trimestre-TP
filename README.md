@@ -1,6 +1,6 @@
 # auxilio_ysolutions
 
-A new Flutter project.
+Desenvolvimento de aplicativo que calcula valor de benefício ao qual uma família tem direito com base nos fatores: número de filhos, renda familiar e se o chefe da família é mãe solteira, para a empresa YSolutions.
 
 ## Getting Started
 
